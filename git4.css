@@ -1,0 +1,14 @@
+h1{
+   color: black;
+   text-align: center;
+
+}
+p{
+    color: blueviolet;
+    text-align: center;
+}
+.video{
+    width: 200px;
+    height: 200px;
+    margin-left: 650px;
+}
